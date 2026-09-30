@@ -2,11 +2,14 @@
 
 Download DeliveryBasics.zip, extract it, run DeliveryBasics.exe.
 
-## Latest (2026-09-30, build 2)
+## Latest (2026-09-30, build 3)
+- Mission board: click a job (or DETAILS) for a full-screen job sheet: the customer's (ridiculous) request, what every modifier really does, the package, the gang, the boss and the pay breakdown.
+- Real models for the Gull, Mama Gull, Zipline Twins, Con Artist, the Skyhook Chopper (spinning rotors, horseshoe magnet) and the Mammoth Hauler semi.
+
+## Build 2
 - Thief numbers and boss health/firepower scale with crew size (2 players = baseline).
-- New thieves: Gull (airlifts the box), Zipline Twins (rappel onto the box), Con Artist (disguised as a crewmate).
-- Bosses by gang: Skyhook Chopper, Mammoth Hauler, Mama Gull (plus the Thief King). The job card names the boss.
-- A-rank raids are now Zipline Twin drops; fog bank weather roll.
+- New thieves: Gull, Zipline Twins, Con Artist. Bosses by gang: Skyhook Chopper, Mammoth Hauler, Mama Gull, Thief King.
+- A-rank raids are Zipline Twin drops; fog bank weather roll.
 
 ## Build 1
 - Clients get paid at the end of a job, package durability x2, crew auto-returns to the company.
