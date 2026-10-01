@@ -2,7 +2,17 @@
 
 Download DeliveryBasics.zip, extract it, run DeliveryBasics.exe.
 
-## Latest (2026-10-01, build 5)
+## Latest (2026-10-01, build 6)
+- Ragdolls: big hits, blasts and [G] flop turn you into a floppy body.
+- Carry your friends: [E] on a downed or flopped teammate lifts them over your head, [E] puts them down, [LMB] throws them (they bowl thieves over). Being carried? [Space] to wriggle free.
+- Empty hands: [LMB] shoves friends, thieves or the box.
+- Bonus objectives on every job (Express, Clean Shift, Hands Off, Team Photo...), +25% each, shown on the job sheet and under the run panel.
+- Road events, 2 per haul: cattle crossing, rockslide, roadworks (road closed - detour!).
+- Roadside finds: cash bags off the road (paid on delivery) and sandwiches (+35 health).
+- Feel: coyote time + jump buffering, camera no longer clips into walls/trees, footsteps and landing dust, box scrape + thump, hit markers, thieves shout when they grab the box, confetti + fanfare on delivery.
+- End screen crew awards (Floor Inspector, Paid Medic, Pack Mule); controls card in the pause menu.
+
+## Build 5
 - Voice chat: proximity voice in online games (loud up close, fades out ~60 m). [V] mutes your mic; a marker shows who is talking.
 - Revive: wave a dollar bill at your downed friend - they gobble your hand, you shake them off and yeet them.
 - Engineer: [Q] places a gadget, [R] picks it: snap trap, spring pad, glue mine, zapper, barricade, repair station (4 out at once). No more shop discount.
