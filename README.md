@@ -2,7 +2,19 @@
 
 Download DeliveryBasics.zip, extract it, run DeliveryBasics.exe.
 
-## Latest (2026-10-01, build 6)
+## Latest (2026-10-02, build 7)
+- Contract codes: every job has a code (DB-XXXX-XXXX-XXXX). Copy it from the job sheet, paste it on the mission board (PLAY CODE): same job, same route, same thieves. Personal best per code.
+- Random routes: from B-rank up the start and the drop-off can be anywhere in the valley (400 m+ apart) - find your own way. Easy jobs keep the road.
+- Chapter finales: a story job per chapter with a scripted customer and a set piece, 2.5x pay and a trophy hat.
+- Locker > PROFILE: hat wardrobe (20 hats earned by playing, a few to buy), career book (lifetime stats), thief-dex (gangs logged, counters revealed after a takedown).
+- End screen tells the story of your run.
+- New packages: beehive, giant egg, fridge. New tools: umbrella, leash, pocket trampoline. Garage package upgrades: wheels, cushions, toboggan, balloons.
+- New road events: runaway hay bales, police checkpoint. Daily run twists (low gravity, cow day...). Chapter 2 is snowy (ice, avalanches); chapter 3 at dusk.
+- Ride on top of the box. Synth music that gets more intense with thief heat. Stolen-box arrow, red ring under the thief carrying it, damage numbers (toggle in pause menu), grade-drop alerts, cardboard creaks.
+- Balance: pristine boxes pay x1.5; pay scales with your chapter. AI buddy removed.
+- Fixes: rope ties stay when you put the rope away; plunger is a one-shot yank; a mob of thieves can no longer insta-down you; you only lose the box if thieves are actually carrying it off.
+
+## Build 6
 - Ragdolls: big hits, blasts and [G] flop turn you into a floppy body.
 - Carry your friends: [E] on a downed or flopped teammate lifts them over your head, [E] puts them down, [LMB] throws them (they bowl thieves over). Being carried? [Space] to wriggle free.
 - Empty hands: [LMB] shoves friends, thieves or the box.
