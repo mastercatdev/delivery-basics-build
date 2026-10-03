@@ -2,6 +2,18 @@
 
 Download DeliveryBasics.zip, extract it, run DeliveryBasics.exe.
 
+## Latest (2026-10-03, build 8)
+- Thieves in disguise: no more thieves just running at you. They come disguised as fake trees, rocks, snowmen, AC units or a painted camo sheet, and creep up while nobody looks. Look at one and it freezes and sinks lower. Get close, hit it, or shoot near it and it drops the disguise and charges you or the box. Disguised thieves don't show on the map.
+- Chapter 2 has its own map: a steep, snowy mountain road that climbs ~85 m to the summit between snow walls and cliffs.
+- Chapter 3 has its own map: the route runs across city rooftops, from roof to roof over plank bridges. Fall off and you're put back on the roof; a box that goes over the edge is craned back up (with a dent).
+- The next chapter now unlocks only after you deliver the current chapter's finale.
+- Thief King shoots in short bursts with pauses instead of a constant stream.
+- Melee weapons feel different: each has its own swing, arc, hit sound and pop-up word (CLANG!, THWAP!, BOING!, POCK!, STOP!).
+- Menus scroll (mission board, store, profile pages, job sheet, end story, controls).
+- Picking a job always opens its job sheet; the host accepts from there.
+- Company van removed (owners refunded $2500).
+- Fixes: the tennis racket no longer puts a bubble around you; the end-of-run story no longer repeats "at minute N".
+
 ## Build 7
 - Contract codes: every job has a code (DB-XXXX-XXXX-XXXX). Copy it from the job sheet, paste it on the mission board (PLAY CODE): same job, same route, same thieves. Personal best per code.
 - Random routes: from B-rank up the start and the drop-off can be anywhere in the valley (400 m+ apart) - find your own way. Easy jobs keep the road.
