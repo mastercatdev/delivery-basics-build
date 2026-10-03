@@ -2,7 +2,7 @@
 
 Download DeliveryBasics.zip, extract it, run DeliveryBasics.exe.
 
-## Latest (2026-10-02, build 7)
+## Build 7
 - Contract codes: every job has a code (DB-XXXX-XXXX-XXXX). Copy it from the job sheet, paste it on the mission board (PLAY CODE): same job, same route, same thieves. Personal best per code.
 - Random routes: from B-rank up the start and the drop-off can be anywhere in the valley (400 m+ apart) - find your own way. Easy jobs keep the road.
 - Chapter finales: a story job per chapter with a scripted customer and a set piece, 2.5x pay and a trophy hat.
